@@ -135,3 +135,7 @@ footer small {
     display: block;
 
 }
+
+.cog-branding_powered {
+    visibility: hidden !important;
+}
