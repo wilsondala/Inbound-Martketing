@@ -40,3 +40,7 @@
 - post para redes sociais:texto + foto + url curta
 - incluir hospedagem (servidor web)
 - Git - historico de evolução (commits detalhados)
+
+
+
+# putsmail
